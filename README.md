@@ -4,6 +4,11 @@
 ## Description
 Chrome Extension that helps generate random passwords 🔒
 
+__P$$w0RD_GnRT0R__ - free and simple extension that allows you to create strong (or looks like strong) passwords in few clicks. Its very easy to use and configure... Try it yourself!
+
+![Password generator chrome extension](https://github.com/dvs-crcr/ce-psswrdgnrtr/blob/main/poster.jpg?raw=true)
+
+
 ## Install & Try
 __link to google chrome webstore__
 
