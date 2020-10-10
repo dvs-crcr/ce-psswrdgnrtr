@@ -24,6 +24,9 @@ npm run build
 
 ## Changelog
 
+`2020-10-10`
+* v1.0.0 release
+
 `2020-10-09`
 * extension repo created
 * edit readme
