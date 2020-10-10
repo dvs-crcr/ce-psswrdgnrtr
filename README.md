@@ -4,9 +4,23 @@
 ## Description
 Chrome Extension that helps generate random passwords 🔒
 
-## Try it!
+## Install & Try
+__link to google chrome webstore__
+
+## Global Dependencies
+* [__nodejs + npm__](https://nodejs.org/)
+* TypeScript `npm i typescript -g`
+* Rimraf `npm i rimraf -g`
+* Copyfiles `npm i copyfiles -g`
+
+## Dev Dependencies
+* `npm i @types/chrome -d`
+* `npm i @types/node -d`
 
 ## Build
+```
+npm run build
+```
 
 ## Changelog
 

@@ -1,0 +1,29 @@
+{
+  "name": "ce-psswrdgnrtr",
+  "version": "1.0.0",
+  "description": "chrome extension that generate passwords",
+  "private": true,
+  "scripts": {
+    "build": "npm run clean && tsc && npm run copy-public",
+    "clean": "rimraf dist",
+    "copy-public": "copyfiles -u 1 \"public/**/*\" dist"
+  },
+  "keywords": [
+    "typescript",
+    "chrome-extension"
+  ],
+  "author": "dvs <dvs@crcr.ru>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dvs-crcr/ce-psswrdgnrtr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dvs-crcr/ce-psswrdgnrtr/issues"
+  },
+  "homepage": "https://github.com/dvs-crcr/ce-psswrdgnrtr#readme",
+  "license": "MIT",
+  "dependencies": {
+    "@types/chrome": "0.0.124",
+    "@types/node": "^14.11.8"
+  }
+}

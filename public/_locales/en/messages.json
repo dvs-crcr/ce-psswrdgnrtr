@@ -1,0 +1,32 @@
+{
+	"appName": {
+		"message": "P$$w0RD_GnRT0R — Password Generator"
+	},
+	"appDesc": {
+		"message": "Расширенеие для быстрой генерации пароля с заданными параметрами"
+    },
+	"appCopied": {
+		"message": "Copied to clipboard!"
+    },
+	"appOptionsSaved": {
+		"message": "Options successfully saved!"
+    },
+	"appGeneratePassword": {
+		"message": "Generate password"
+	},
+	"appPasswordLength": {
+		"message": "Password length"
+	},
+	"appUseUppercase": {
+		"message": "use UPPERCASE symbols [A-Z]"
+	},
+	"appUseLowercase": {
+		"message": "use lowercase symbols [a-z]"
+	},
+	"appUseNumbers": {
+		"message": "use numbers [0-9]"
+	},
+	"appUseSpecialChars": {
+		"message": "use specialchars"
+	}
+}

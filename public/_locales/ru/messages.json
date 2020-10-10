@@ -1,0 +1,33 @@
+{
+	"appName": {
+		"message": "P$$w0RD_GnRT0R — Генератор паролей"
+	},
+	"appDesc": {
+		"message": "Расширенеие для быстрой генерации пароля с заданными параметрами"
+    },
+	"appCopied": {
+		"message": "Пароль скопирован!"
+    },
+	"appOptionsSaved": {
+		"message": "Настройки успешно сохранены!"
+	},
+	"appGeneratePassword": {
+		"message": "Создать пароль"
+	},
+	"appPasswordLength": {
+		"message": "Длина пароля"
+	},
+	"appUseUppercase": {
+		"message": "ПРОПИСНЫЕ буквы [A-Z]"
+	},
+	"appUseLowercase": {
+		"message": "строчные буквы [a-z]"
+	},
+	"appUseNumbers": {
+		"message": "Числа [0-9]"
+	},
+	"appUseSpecialChars": {
+		"message": "Спец. символы"
+	}
+	
+}
