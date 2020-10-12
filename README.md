@@ -10,7 +10,7 @@ __P$$w0RD_GnRT0R__ - free and simple extension that allows you to create strong 
 
 
 ## Install & Try
-__link to google chrome webstore__
+Google chrome webstore [https://chrome.google.com/webstore/detail/pw0rdgnrt0r/aiilfegilmhcjpigkncdmkpakejiddjg](https://chrome.google.com/webstore/detail/pw0rdgnrt0r/aiilfegilmhcjpigkncdmkpakejiddjg)
 
 ## Build
 ```
